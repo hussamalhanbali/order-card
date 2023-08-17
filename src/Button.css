@@ -1,0 +1,27 @@
+.proceed {
+  width: 90%;
+  margin-bottom: 15px;
+  padding: 1rem 0;
+  border-radius: 12px;
+  box-shadow: 0 1px 30px -8px #3f454e;
+  background-color: #4b5c74;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.proceed:hover {
+  background-color: #516b90;
+}
+.cancel {
+  width: 90%;
+  padding: 1rem 0;
+  border-radius: 12px;
+  border: none;
+  background-color: white;
+  color: #adb3bd;
+  margin-bottom: 20px;
+}
+.cancel:hover {
+  color: black;
+  cursor: pointer;
+}
